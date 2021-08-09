@@ -1,11 +1,11 @@
 # Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality
 
-This is a repository for the PCB schematics and 3D printed file used in the wearable device in the "Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality" paper (ACM CHI2021).
+This is the repository for PCB schematics and 3D printed file used in the wearable device in the "Touch&Fold: A Foldable Haptic Actuator for Rendering Touch in Mixed Reality" paper (ACM CHI2021).
 
 ## hardware
 
 - DC motor (26:1 Sub-Micro Planetary Gearmotor 0.1 kg-cm, Pololu)
-- lin- ear resonant actuator (LRA C10-100, Precision Micro Drives)
+- linear resonant actuator (LRA C10-100, Precision Micro Drives)
 - force sensor (FSR 400, Interlink Electronics)
 - photo interrupter (SG-105F, Kodenshi)
 
